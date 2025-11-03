@@ -201,4 +201,78 @@
 # favorites.reverse()
 # print(favorites)
 
+# #11-masala
+# songs = ["Yomg'ir", "Sevgi", "Hayot", "Kuz"]
+# print(songs)
+# songs.insert(1,"bahor")
+# print(songs)
+# songs.remove("Kuz")
+# print(songs)
+# songs.sort()
+# print(songs)
+# f = songs.index("Yomg'ir")
+# print(songs)
+# if "Hayot" in songs:
+#     print("true")
+# else:
+#     print("false")
+# songs.pop()
+# print(songs)
+# l = len(songs)
+# print(l)
+# songs.sort(reverse=True)
+# print(songs)
+# s = songs.copy()
+# print(s)
+# print(songs)
+
+# #1-masala
+# days = ('Dushanba', 'Seshanba', 'Chorshanba', 'Payshanba', 'Juma')
+# f = len(days)
+# print(days)
+# if "Juma" in days:
+#     print("True")
+# else:
+#     print("False")
+# g = days.index("Chorshanba")
+# print(g)
+# print(days[1])
+# kun = days[-2:]
+# print(kun)
+# k = list(days)
+# print(k)
+# k.append("Shanba" and "Yakshanba")
+# print(k)
+# days = tuple(k)
+# print(days)
+# day = len(days)
+# print(day)
+# print(days)
+
+# #2-masala
+# colors = ('qizil', 'yashil', 'kok', 'sariq')
+# if "yashil" in colors:
+#     print("true")
+# else:
+#     print("false")
+# if "qora" not in colors:
+#     print("true")
+# else:
+#     print("false")
+# q = len(colors)
+# print(q)
+# print(colors.index("kok"))
+# l = list(colors)
+# print(l)
+# l.append("pushti")
+# print(l)
+# colors = tuple(l)
+# print(colors)
+# print(colors[1:3])
+# color = colors
+# print(color)
+# print(len(color))
+# print(colors)
+
+
 
