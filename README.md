@@ -1,2 +1,1 @@
-# list.masalalar.a
-amirxon
+
